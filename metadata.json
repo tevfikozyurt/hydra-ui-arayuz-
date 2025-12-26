@@ -1,0 +1,7 @@
+{
+  "name": "Hydra Su Yönetimi AI",
+  "description": "Yapay zeka destekli, NLP tabanlı akıllı su yönetimi ve tasarruf dashboard'u.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
