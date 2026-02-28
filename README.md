@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Hydra Kullanıcı Arayüzü (UI)
 
-# Run and deploy your AI Studio app
+Kullanıcıların su tüketimlerini takip edebildiği modern ve interaktif dashboard tasarımıdır. Geliştirme sürecinde üretken yapay zeka araçlarından faydalanılmıştır.
 
-This contains everything you need to run your app locally.
+## 🛠 Geliştirme Araçları & Teknolojiler
+- **IDE:** Visual Studio Code (VS Code)
+- **AI Asistanı:** AI Studio (TypeScript bileşen yapısı ve UI mantığı geliştirmede kullanıldı)
+- **Dil:** TypeScript (Tip güvenli geliştirme için)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1X-sxBoQGFg-SPm4fQoRx24IorDbC81sp
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Fonksiyonlar
+- **Modern Dashboard:** Kullanıcı dostu, veri görselleştirme odaklı tasarım.
+- **Anlık Takip:** VS Code üzerinde optimize edilen hızlı ve akıcı arayüz bileşenleri.
